@@ -1,4 +1,4 @@
-# Protobuf debuild
+# Protobuf3 debuild
 
 Uses docker and debian debuild to produce protobuf 3 packages for ubuntu/trusty.
 
